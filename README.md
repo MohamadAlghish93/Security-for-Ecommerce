@@ -85,13 +85,12 @@ Today many in-place and emerging solutions are providing for a safe Internet wor
 
 # References
 
-- (Security Technologies and Infrastructures)[https://www2.seas.gwu.edu/~simhaweb/ecom/notes/security/index.html#The%20Role%20of%20Security%20for%20E-commerce]
+- [Security Technologies and Infrastructures](https://www2.seas.gwu.edu/~simhaweb/ecom/notes/security/index.html#The%20Role%20of%20Security%20for%20E-commerce)
 
-- (http://www.uky.edu/~dsianita/390/390wk4.html)[http://www.uky.edu/~dsianita/390/390wk4.html]
+- [uky.edu](http://www.uky.edu/~dsianita/390/390wk4.html)
 
-- (https://www.getastra.com/blog/knowledge-base/ecommerce-security/)[https://www.getastra.com/blog/knowledge-base/ecommerce-security/]
+- [ecommerce-security/](https://www.getastra.com/blog/knowledge-base/ecommerce-security/)
 
-- (https://www.cloudways.com/blog/ecommerce-security-tips/)[https://www.cloudways.com/blog/ecommerce-security-tips/]
+- [ecommerce-security-tips](https://www.cloudways.com/blog/ecommerce-security-tips/)
 
-- (https://www.bigcommerce.com/articles/ecommerce/ecommerce-website-security/#conclusion[https://www.bigcommerce.com/articles/ecommerce/ecommerce-website-security/#conclusion]
-
+- [ecommerce/ecommerce-website-security](https://www.bigcommerce.com/articles/ecommerce/ecommerce-website-security/#conclusion)
